@@ -1,12 +1,13 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# import lib
 import sys
 import os
 import re
 import requests as r
 import wget
 
+# set target folder
 filedir = os.path.join('./download')
 ERASE_LINE = '\x1b[2K'
 
@@ -77,3 +78,5 @@ elif CHOICE == "3":
 
 else:
     print("[-] Invalid option!")
+    
+# tao @ 2021 04 23
