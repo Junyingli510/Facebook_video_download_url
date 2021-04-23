@@ -23,8 +23,8 @@ python downloader.py
 ``` 
 
 
- 1. select Resolution with number 1,2
+ 1. Select Resolution with number 1, 2.
  2. Enter download link.
- 3. Video downloaded
+ 3. Video downloaded.
  
-* tao @ 2021 04 23
+ * __ tao @ 2021 04 23 __
