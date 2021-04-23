@@ -1,2 +1,3 @@
 # Facebook_video_downloader
-This script can download Facebook video with url!
+
+This script is a python script that downloads a facebook video using a link!
