@@ -5,25 +5,26 @@ This script is a python script that downloads a facebook video using a link!
 ## Getting started
 On Window:
  
-install requests
+Install requests
 
 ```bash
 $ python -m pip install requests
 ``` 
-install wget
+Install wget
 
 ```bash
 $ python -m pip install wget
 ``` 
 ## Running script
+ * Before start script create a download folder.
 
 ```bash
 python downloader.py
 ``` 
-* create download folder in same directory
+
 
  1. select Resolution with number 1,2
  2. Enter download link.
  3. Video downloaded
  
-# tao @ 2021 04 23
+* tao @ 2021 04 23
